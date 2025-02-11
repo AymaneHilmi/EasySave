@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EasySave.CompleteSave">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>CompleteSave.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySave.DiffSave">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>DiffSave.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EasySave.GeneralTools">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneralTools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasySave.Language">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="EasySave.Language.YesNo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EasySave.Language.Selected" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EasySave.Language.Error" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EasySave.Language.SourcePath" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EasySave.Language.Menu" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EasySave.Language.CreationDirectory" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EasySave.Language.BackupName" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EasySave.Language.GoodBye" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EasySave.Language.TargetPath" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="EasySave.Language.Welcome" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Language.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Language.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasySave.MainPage">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAABAAAAAAAAABQAAAAA=</HashCode>
+      <FileName>MainPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasySave.Save">
+    <Position X="2.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAEACAAAAAEAAAAAECAAAAAAAABABAJAA=</HashCode>
+      <FileName>Save.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasySave.JsonLog">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAIAAABAAAAECAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>JsonLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasySave.JsonState">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAMAAAACBQAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>JsonState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EasySave.ISave" Collapsed="true">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Save.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

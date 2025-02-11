@@ -1,0 +1,3433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLogFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0039217</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0010230</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0023216</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0012322</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0011145</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0010218</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0007868</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0010223</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0012833</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>a</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0012504</FileTransfertTime>
+    <Time>22/02/2023 09:52:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0004659</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0000861</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0000694</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0000734</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0000884</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0000841</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0000865</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0000759</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0000892</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0000892</FileTransfertTime>
+    <Time>22/02/2023 10:03:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (2).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Diagramme de séquence - Copie (2).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0160167</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0187172</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>2</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (2).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Diagramme de séquence - Copie (2).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0251368</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>4</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (2).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Diagramme de séquence - Copie (2).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0276155</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (3).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Diagramme de séquence - Copie (3).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0130819</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0080998</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>2</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (3).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Diagramme de séquence - Copie (3).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0115525</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>4</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (3).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Diagramme de séquence - Copie (3).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0172019</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (4).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Diagramme de séquence - Copie (4).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0231193</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0209189</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>2</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (4).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Diagramme de séquence - Copie (4).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0251025</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>4</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (4).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Diagramme de séquence - Copie (4).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0240484</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (5).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Diagramme de séquence - Copie (5).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0257526</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0213395</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>2</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (5).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Diagramme de séquence - Copie (5).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0259784</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>4</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (5).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Diagramme de séquence - Copie (5).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0224024</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (6).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Diagramme de séquence - Copie (6).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0290454</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0179186</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>2</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (6).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Diagramme de séquence - Copie (6).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0205872</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>4</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie (6).pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Diagramme de séquence - Copie (6).pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0217036</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie.pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Diagramme de séquence - Copie.pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0214442</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>4</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie.pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Diagramme de séquence - Copie.pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0090494</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0259288</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>2</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence - Copie.pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Diagramme de séquence - Copie.pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0292941</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence.pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Diagramme de séquence.pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0198915</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>4</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence.pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Diagramme de séquence.pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0190917</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0142726</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>2</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-2\Diagramme de séquence.pdf</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Diagramme de séquence.pdf</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>13876</FileSize>
+    <FileTransfertTime>00:00:00.0183458</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0013631</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0012115</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\prosit-1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\1</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0013169</FileTransfertTime>
+    <Time>22/02/2023 10:04:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>za</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:14.1899869</FileTransfertTime>
+    <Time>22/02/2023 11:13:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>za</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0456678</FileTransfertTime>
+    <Time>22/02/2023 11:13:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>za</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0097704</FileTransfertTime>
+    <Time>22/02/2023 11:13:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>za</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0161493</FileTransfertTime>
+    <Time>22/02/2023 11:13:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>za</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0155035</FileTransfertTime>
+    <Time>22/02/2023 11:13:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:00.0058645</FileTransfertTime>
+    <Time>22/02/2023 11:15:42</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0053313</FileTransfertTime>
+    <Time>22/02/2023 11:15:42</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0055019</FileTransfertTime>
+    <Time>22/02/2023 11:15:42</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0108839</FileTransfertTime>
+    <Time>22/02/2023 11:15:42</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>aze</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0099648</FileTransfertTime>
+    <Time>22/02/2023 11:15:42</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>azdef</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:00.0061300</FileTransfertTime>
+    <Time>22/02/2023 11:16:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>azdef</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0065459</FileTransfertTime>
+    <Time>22/02/2023 11:16:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>azdef</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0104060</FileTransfertTime>
+    <Time>22/02/2023 11:16:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>azdef</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0216206</FileTransfertTime>
+    <Time>22/02/2023 11:16:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>azdef</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0491548</FileTransfertTime>
+    <Time>22/02/2023 11:16:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:00.0013237</FileTransfertTime>
+    <Time>22/02/2023 13:51:03</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0002599</FileTransfertTime>
+    <Time>22/02/2023 13:51:03</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0002615</FileTransfertTime>
+    <Time>22/02/2023 13:51:03</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0003319</FileTransfertTime>
+    <Time>22/02/2023 13:51:03</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0003239</FileTransfertTime>
+    <Time>22/02/2023 13:51:03</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:00.0051725</FileTransfertTime>
+    <Time>22/02/2023 13:53:46</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0038988</FileTransfertTime>
+    <Time>22/02/2023 13:53:46</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0066788</FileTransfertTime>
+    <Time>22/02/2023 13:53:46</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0127060</FileTransfertTime>
+    <Time>22/02/2023 13:53:46</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0110539</FileTransfertTime>
+    <Time>22/02/2023 13:53:46</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>ZA</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:00.0060994</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:00.0156850</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>ZA</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0052426</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0050669</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>ZA</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0074178</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0061798</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>ZA</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0176655</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0133622</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>ZA</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0191452</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>az</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0221857</FileTransfertTime>
+    <Time>22/02/2023 13:54:17</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DFGFD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:00.0139722</FileTransfertTime>
+    <Time>22/02/2023 14:40:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DFGFD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0192187</FileTransfertTime>
+    <Time>22/02/2023 14:40:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DFGFD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0112624</FileTransfertTime>
+    <Time>22/02/2023 14:40:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DFGFD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0203101</FileTransfertTime>
+    <Time>22/02/2023 14:40:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DFGFD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0183365</FileTransfertTime>
+    <Time>22/02/2023 14:40:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1AZSD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:00.0064783</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DEZ</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\attestation_domicile_230216_192510.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\attestation_domicile_230216_192510.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>107025</FileSize>
+    <FileTransfertTime>00:00:00.0174224</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1AZSD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0047300</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DEZ</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CCTL.xlsx</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CCTL.xlsx</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>20976</FileSize>
+    <FileTransfertTime>00:00:00.0042532</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1AZSD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0076066</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DEZ</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\Prosit 6 Synchronisation Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\Prosit 6 Synchronisation Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>2456142</FileSize>
+    <FileTransfertTime>00:00:00.0100679</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1AZSD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0144097</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DEZ</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 1 Burnout Aymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>10739455</FileSize>
+    <FileTransfertTime>00:00:00.0202240</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1AZSD</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0214283</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>DEZ</Name>
+    <FileSource>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\1\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileSource>
+    <FileTarget>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2\CER Programmation Systeme\CER Prosit 2 Restructuration oAymane.pdf</FileTarget>
+    <DestPath>C:\Users\ayman\OneDrive - Association Cesi Viacesi mail\Bureau\2</DestPath>
+    <FileSize>8400034</FileSize>
+    <FileTransfertTime>00:00:00.0211213</FileTransfertTime>
+    <Time>22/02/2023 15:21:41</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0079924</FileTransfertTime>
+    <Time>23/02/2023 23:30:56</Time>
+    <EncryptTime>00:00:00.2115105</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0047568</FileTransfertTime>
+    <Time>23/02/2023 23:30:56</Time>
+    <EncryptTime>00:00:00.1054728</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0064238</FileTransfertTime>
+    <Time>23/02/2023 23:30:56</Time>
+    <EncryptTime>00:00:00.1184945</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0069925</FileTransfertTime>
+    <Time>23/02/2023 23:30:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0056021</FileTransfertTime>
+    <Time>23/02/2023 23:30:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0055577</FileTransfertTime>
+    <Time>23/02/2023 23:30:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0041745</FileTransfertTime>
+    <Time>23/02/2023 23:30:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.6098001</FileTransfertTime>
+    <Time>23/02/2023 23:30:57</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8574456</FileTransfertTime>
+    <Time>23/02/2023 23:30:58</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:05.4799380</FileTransfertTime>
+    <Time>23/02/2023 23:31:03</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.7457928</FileTransfertTime>
+    <Time>23/02/2023 23:31:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:03.7327051</FileTransfertTime>
+    <Time>23/02/2023 23:31:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:08.3442294</FileTransfertTime>
+    <Time>23/02/2023 23:31:16</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:04.4446254</FileTransfertTime>
+    <Time>23/02/2023 23:31:21</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>A</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.7828839</FileTransfertTime>
+    <Time>23/02/2023 23:31:21</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0076727</FileTransfertTime>
+    <Time>23/02/2023 23:37:28</Time>
+    <EncryptTime>00:00:00.1213261</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0059391</FileTransfertTime>
+    <Time>23/02/2023 23:37:28</Time>
+    <EncryptTime>00:00:00.1132126</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0073040</FileTransfertTime>
+    <Time>23/02/2023 23:37:28</Time>
+    <EncryptTime>00:00:00.1270698</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0047328</FileTransfertTime>
+    <Time>23/02/2023 23:37:28</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0046183</FileTransfertTime>
+    <Time>23/02/2023 23:37:28</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0053696</FileTransfertTime>
+    <Time>23/02/2023 23:37:28</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0040819</FileTransfertTime>
+    <Time>23/02/2023 23:37:28</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.5846316</FileTransfertTime>
+    <Time>23/02/2023 23:37:29</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8463019</FileTransfertTime>
+    <Time>23/02/2023 23:37:30</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:08.3502450</FileTransfertTime>
+    <Time>23/02/2023 23:37:38</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0110137</FileTransfertTime>
+    <Time>23/02/2023 23:39:43</Time>
+    <EncryptTime>00:00:00.1082753</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0046173</FileTransfertTime>
+    <Time>23/02/2023 23:39:43</Time>
+    <EncryptTime>00:00:00.1170743</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0115671</FileTransfertTime>
+    <Time>23/02/2023 23:39:43</Time>
+    <EncryptTime>00:00:00.1217275</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0060093</FileTransfertTime>
+    <Time>23/02/2023 23:39:43</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0046579</FileTransfertTime>
+    <Time>23/02/2023 23:39:43</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0047416</FileTransfertTime>
+    <Time>23/02/2023 23:39:43</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0044445</FileTransfertTime>
+    <Time>23/02/2023 23:39:43</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.5379071</FileTransfertTime>
+    <Time>23/02/2023 23:39:44</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8398110</FileTransfertTime>
+    <Time>23/02/2023 23:39:45</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.7508577</FileTransfertTime>
+    <Time>23/02/2023 23:39:45</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.7467739</FileTransfertTime>
+    <Time>23/02/2023 23:39:46</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1824179</FileTransfertTime>
+    <Time>23/02/2023 23:39:47</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.0820831</FileTransfertTime>
+    <Time>23/02/2023 23:39:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1398326</FileTransfertTime>
+    <Time>23/02/2023 23:39:50</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:06.7964196</FileTransfertTime>
+    <Time>23/02/2023 23:39:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0071884</FileTransfertTime>
+    <Time>23/02/2023 23:39:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0068095</FileTransfertTime>
+    <Time>23/02/2023 23:39:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\3\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\3</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0117107</FileTransfertTime>
+    <Time>23/02/2023 23:39:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>64</FileSize>
+    <FileTransfertTime>00:00:00.0112872</FileTransfertTime>
+    <Time>23/02/2023 23:43:04</Time>
+    <EncryptTime>00:00:00.1786032</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>16</FileSize>
+    <FileTransfertTime>00:00:00.0108893</FileTransfertTime>
+    <Time>23/02/2023 23:43:04</Time>
+    <EncryptTime>00:00:00.1836329</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>64</FileSize>
+    <FileTransfertTime>00:00:00.0097101</FileTransfertTime>
+    <Time>23/02/2023 23:43:04</Time>
+    <EncryptTime>00:00:00.1906153</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0068764</FileTransfertTime>
+    <Time>23/02/2023 23:43:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0080349</FileTransfertTime>
+    <Time>23/02/2023 23:43:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0062042</FileTransfertTime>
+    <Time>23/02/2023 23:43:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0063099</FileTransfertTime>
+    <Time>23/02/2023 23:43:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8501835</FileTransfertTime>
+    <Time>23/02/2023 23:43:05</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2999868</FileTransfertTime>
+    <Time>23/02/2023 23:43:07</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.3116464</FileTransfertTime>
+    <Time>23/02/2023 23:43:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>3</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.9295065</FileTransfertTime>
+    <Time>23/02/2023 23:43:09</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0118518</FileTransfertTime>
+    <Time>23/02/2023 23:46:08</Time>
+    <EncryptTime>00:00:00.1766218</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0058428</FileTransfertTime>
+    <Time>23/02/2023 23:46:08</Time>
+    <EncryptTime>00:00:00.1823856</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0091738</FileTransfertTime>
+    <Time>23/02/2023 23:46:09</Time>
+    <EncryptTime>00:00:00.1881227</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0073244</FileTransfertTime>
+    <Time>23/02/2023 23:46:09</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0063093</FileTransfertTime>
+    <Time>23/02/2023 23:46:09</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0059612</FileTransfertTime>
+    <Time>23/02/2023 23:46:09</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0061829</FileTransfertTime>
+    <Time>23/02/2023 23:46:09</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8383515</FileTransfertTime>
+    <Time>23/02/2023 23:46:10</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2995841</FileTransfertTime>
+    <Time>23/02/2023 23:46:11</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:07.1491002</FileTransfertTime>
+    <Time>23/02/2023 23:46:18</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:04.9824810</FileTransfertTime>
+    <Time>23/02/2023 23:46:23</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1490034</FileTransfertTime>
+    <Time>23/02/2023 23:46:24</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1893305</FileTransfertTime>
+    <Time>23/02/2023 23:46:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2867471</FileTransfertTime>
+    <Time>23/02/2023 23:46:27</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2924757</FileTransfertTime>
+    <Time>23/02/2023 23:46:28</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0103740</FileTransfertTime>
+    <Time>23/02/2023 23:46:28</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0083347</FileTransfertTime>
+    <Time>23/02/2023 23:46:28</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0087543</FileTransfertTime>
+    <Time>23/02/2023 23:46:28</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0121202</FileTransfertTime>
+    <Time>23/02/2023 23:48:06</Time>
+    <EncryptTime>00:00:00.1660867</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0060795</FileTransfertTime>
+    <Time>23/02/2023 23:48:06</Time>
+    <EncryptTime>00:00:00.1639119</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0089379</FileTransfertTime>
+    <Time>23/02/2023 23:48:07</Time>
+    <EncryptTime>00:00:00.1833677</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0057862</FileTransfertTime>
+    <Time>23/02/2023 23:48:07</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0052885</FileTransfertTime>
+    <Time>23/02/2023 23:48:07</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0059534</FileTransfertTime>
+    <Time>23/02/2023 23:48:07</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0060804</FileTransfertTime>
+    <Time>23/02/2023 23:48:07</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8219486</FileTransfertTime>
+    <Time>23/02/2023 23:48:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:06.1954771</FileTransfertTime>
+    <Time>23/02/2023 23:48:14</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0100081</FileTransfertTime>
+    <Time>23/02/2023 23:55:19</Time>
+    <EncryptTime>00:00:00.1848580</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0064196</FileTransfertTime>
+    <Time>23/02/2023 23:55:20</Time>
+    <EncryptTime>00:00:00.1624022</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0094671</FileTransfertTime>
+    <Time>23/02/2023 23:55:20</Time>
+    <EncryptTime>00:00:00.1817450</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0060377</FileTransfertTime>
+    <Time>23/02/2023 23:55:20</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0089883</FileTransfertTime>
+    <Time>23/02/2023 23:55:20</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0059692</FileTransfertTime>
+    <Time>23/02/2023 23:55:20</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0057696</FileTransfertTime>
+    <Time>23/02/2023 23:55:20</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.7871658</FileTransfertTime>
+    <Time>23/02/2023 23:55:21</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2601645</FileTransfertTime>
+    <Time>23/02/2023 23:55:22</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2148559</FileTransfertTime>
+    <Time>23/02/2023 23:55:23</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2528066</FileTransfertTime>
+    <Time>23/02/2023 23:55:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.3079544</FileTransfertTime>
+    <Time>23/02/2023 23:55:26</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0132084</FileTransfertTime>
+    <Time>23/02/2023 23:58:52</Time>
+    <EncryptTime>00:00:00.1619350</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0061406</FileTransfertTime>
+    <Time>23/02/2023 23:58:52</Time>
+    <EncryptTime>00:00:00.1607466</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0078579</FileTransfertTime>
+    <Time>23/02/2023 23:58:52</Time>
+    <EncryptTime>00:00:00.1581776</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0056694</FileTransfertTime>
+    <Time>23/02/2023 23:58:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0074324</FileTransfertTime>
+    <Time>23/02/2023 23:58:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0061665</FileTransfertTime>
+    <Time>23/02/2023 23:58:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0063982</FileTransfertTime>
+    <Time>23/02/2023 23:58:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.7510539</FileTransfertTime>
+    <Time>23/02/2023 23:58:53</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2378953</FileTransfertTime>
+    <Time>23/02/2023 23:58:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2309875</FileTransfertTime>
+    <Time>23/02/2023 23:58:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1789001</FileTransfertTime>
+    <Time>23/02/2023 23:58:57</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2165993</FileTransfertTime>
+    <Time>23/02/2023 23:58:58</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1994408</FileTransfertTime>
+    <Time>23/02/2023 23:58:59</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:04.9791223</FileTransfertTime>
+    <Time>23/02/2023 23:59:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:07.7524135</FileTransfertTime>
+    <Time>23/02/2023 23:59:12</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0090604</FileTransfertTime>
+    <Time>23/02/2023 23:59:12</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0087741</FileTransfertTime>
+    <Time>23/02/2023 23:59:12</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0071907</FileTransfertTime>
+    <Time>23/02/2023 23:59:12</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0156180</FileTransfertTime>
+    <Time>24/02/2023 00:00:51</Time>
+    <EncryptTime>00:00:00.1414400</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0129697</FileTransfertTime>
+    <Time>24/02/2023 00:00:51</Time>
+    <EncryptTime>00:00:00.1461759</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0153647</FileTransfertTime>
+    <Time>24/02/2023 00:00:51</Time>
+    <EncryptTime>00:00:00.1542111</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0059603</FileTransfertTime>
+    <Time>24/02/2023 00:00:51</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0062885</FileTransfertTime>
+    <Time>24/02/2023 00:00:51</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0066914</FileTransfertTime>
+    <Time>24/02/2023 00:00:51</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0057154</FileTransfertTime>
+    <Time>24/02/2023 00:00:51</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.7686737</FileTransfertTime>
+    <Time>24/02/2023 00:00:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.3010712</FileTransfertTime>
+    <Time>24/02/2023 00:00:53</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2372546</FileTransfertTime>
+    <Time>24/02/2023 00:00:55</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2417170</FileTransfertTime>
+    <Time>24/02/2023 00:00:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2585924</FileTransfertTime>
+    <Time>24/02/2023 00:00:57</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:06.3123832</FileTransfertTime>
+    <Time>24/02/2023 00:01:03</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.9925573</FileTransfertTime>
+    <Time>24/02/2023 00:01:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2568468</FileTransfertTime>
+    <Time>24/02/2023 00:01:06</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0084047</FileTransfertTime>
+    <Time>24/02/2023 00:01:06</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0093550</FileTransfertTime>
+    <Time>24/02/2023 00:01:06</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0088402</FileTransfertTime>
+    <Time>24/02/2023 00:01:06</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0124066</FileTransfertTime>
+    <Time>24/02/2023 00:02:30</Time>
+    <EncryptTime>00:00:00.1652777</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0051507</FileTransfertTime>
+    <Time>24/02/2023 00:02:31</Time>
+    <EncryptTime>00:00:00.1599558</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0082933</FileTransfertTime>
+    <Time>24/02/2023 00:02:31</Time>
+    <EncryptTime>00:00:00.1812138</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0068242</FileTransfertTime>
+    <Time>24/02/2023 00:02:31</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0068442</FileTransfertTime>
+    <Time>24/02/2023 00:02:31</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0074233</FileTransfertTime>
+    <Time>24/02/2023 00:02:31</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0054794</FileTransfertTime>
+    <Time>24/02/2023 00:02:31</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8427704</FileTransfertTime>
+    <Time>24/02/2023 00:02:32</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2012102</FileTransfertTime>
+    <Time>24/02/2023 00:02:33</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2060154</FileTransfertTime>
+    <Time>24/02/2023 00:02:34</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1971583</FileTransfertTime>
+    <Time>24/02/2023 00:02:36</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:06.6418114</FileTransfertTime>
+    <Time>24/02/2023 00:02:42</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.6185625</FileTransfertTime>
+    <Time>24/02/2023 00:02:44</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:02.3997415</FileTransfertTime>
+    <Time>24/02/2023 00:02:46</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:05.7322552</FileTransfertTime>
+    <Time>24/02/2023 00:02:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0055508</FileTransfertTime>
+    <Time>24/02/2023 00:02:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0069670</FileTransfertTime>
+    <Time>24/02/2023 00:02:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\4\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\4</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0101041</FileTransfertTime>
+    <Time>24/02/2023 00:02:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0101647</FileTransfertTime>
+    <Time>24/02/2023 00:07:05</Time>
+    <EncryptTime>00:00:00.1859690</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0063754</FileTransfertTime>
+    <Time>24/02/2023 00:07:05</Time>
+    <EncryptTime>00:00:00.1560793</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0088024</FileTransfertTime>
+    <Time>24/02/2023 00:07:05</Time>
+    <EncryptTime>00:00:00.1840235</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0052450</FileTransfertTime>
+    <Time>24/02/2023 00:07:05</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0053121</FileTransfertTime>
+    <Time>24/02/2023 00:07:06</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0057472</FileTransfertTime>
+    <Time>24/02/2023 00:07:06</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0056935</FileTransfertTime>
+    <Time>24/02/2023 00:07:06</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.9261984</FileTransfertTime>
+    <Time>24/02/2023 00:07:07</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.3657806</FileTransfertTime>
+    <Time>24/02/2023 00:07:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2638218</FileTransfertTime>
+    <Time>24/02/2023 00:07:09</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2854120</FileTransfertTime>
+    <Time>24/02/2023 00:07:10</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2699359</FileTransfertTime>
+    <Time>24/02/2023 00:07:12</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2731383</FileTransfertTime>
+    <Time>24/02/2023 00:07:13</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:06.9749981</FileTransfertTime>
+    <Time>24/02/2023 00:07:20</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:05.1334189</FileTransfertTime>
+    <Time>24/02/2023 00:07:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0099900</FileTransfertTime>
+    <Time>24/02/2023 00:07:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0088124</FileTransfertTime>
+    <Time>24/02/2023 00:07:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0089388</FileTransfertTime>
+    <Time>24/02/2023 00:07:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0112278</FileTransfertTime>
+    <Time>24/02/2023 00:11:50</Time>
+    <EncryptTime>00:00:00.1788756</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0057303</FileTransfertTime>
+    <Time>24/02/2023 00:11:50</Time>
+    <EncryptTime>00:00:00.1708787</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0097014</FileTransfertTime>
+    <Time>24/02/2023 00:11:51</Time>
+    <EncryptTime>00:00:00.1886785</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0063145</FileTransfertTime>
+    <Time>24/02/2023 00:11:51</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0062216</FileTransfertTime>
+    <Time>24/02/2023 00:11:51</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0066113</FileTransfertTime>
+    <Time>24/02/2023 00:11:51</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0070650</FileTransfertTime>
+    <Time>24/02/2023 00:11:51</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8639240</FileTransfertTime>
+    <Time>24/02/2023 00:11:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2599371</FileTransfertTime>
+    <Time>24/02/2023 00:11:53</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1660012</FileTransfertTime>
+    <Time>24/02/2023 00:11:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2216708</FileTransfertTime>
+    <Time>24/02/2023 00:11:55</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2547370</FileTransfertTime>
+    <Time>24/02/2023 00:11:57</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0126642</FileTransfertTime>
+    <Time>24/02/2023 00:14:44</Time>
+    <EncryptTime>00:00:00.2413721</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0050200</FileTransfertTime>
+    <Time>24/02/2023 00:14:44</Time>
+    <EncryptTime>00:00:00.1721988</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0111552</FileTransfertTime>
+    <Time>24/02/2023 00:14:44</Time>
+    <EncryptTime>00:00:00.2819696</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0136064</FileTransfertTime>
+    <Time>24/02/2023 00:14:45</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0131350</FileTransfertTime>
+    <Time>24/02/2023 00:14:45</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0111171</FileTransfertTime>
+    <Time>24/02/2023 00:14:45</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0124630</FileTransfertTime>
+    <Time>24/02/2023 00:14:45</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8478120</FileTransfertTime>
+    <Time>24/02/2023 00:14:46</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2045205</FileTransfertTime>
+    <Time>24/02/2023 00:14:47</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.3272446</FileTransfertTime>
+    <Time>24/02/2023 00:14:48</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2829119</FileTransfertTime>
+    <Time>24/02/2023 00:14:49</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.3151658</FileTransfertTime>
+    <Time>24/02/2023 00:14:51</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1964848</FileTransfertTime>
+    <Time>24/02/2023 00:14:52</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:03.6915848</FileTransfertTime>
+    <Time>24/02/2023 00:14:56</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:08.4013022</FileTransfertTime>
+    <Time>24/02/2023 00:15:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0075093</FileTransfertTime>
+    <Time>24/02/2023 00:15:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0084836</FileTransfertTime>
+    <Time>24/02/2023 00:15:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0086568</FileTransfertTime>
+    <Time>24/02/2023 00:15:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0132910</FileTransfertTime>
+    <Time>24/02/2023 00:18:01</Time>
+    <EncryptTime>00:00:00.2266532</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0060901</FileTransfertTime>
+    <Time>24/02/2023 00:18:01</Time>
+    <EncryptTime>00:00:00.1850259</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0084658</FileTransfertTime>
+    <Time>24/02/2023 00:18:02</Time>
+    <EncryptTime>00:00:00.1855304</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0056934</FileTransfertTime>
+    <Time>24/02/2023 00:18:02</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0055049</FileTransfertTime>
+    <Time>24/02/2023 00:18:02</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0052681</FileTransfertTime>
+    <Time>24/02/2023 00:18:02</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0053623</FileTransfertTime>
+    <Time>24/02/2023 00:18:02</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.9436716</FileTransfertTime>
+    <Time>24/02/2023 00:18:03</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2939984</FileTransfertTime>
+    <Time>24/02/2023 00:18:04</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.3322974</FileTransfertTime>
+    <Time>24/02/2023 00:18:05</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.3222045</FileTransfertTime>
+    <Time>24/02/2023 00:18:07</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2503457</FileTransfertTime>
+    <Time>24/02/2023 00:18:08</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:06.3584283</FileTransfertTime>
+    <Time>24/02/2023 00:18:14</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:05.7495889</FileTransfertTime>
+    <Time>24/02/2023 00:18:20</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0108115</FileTransfertTime>
+    <Time>24/02/2023 00:23:25</Time>
+    <EncryptTime>00:00:00.1906375</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0070569</FileTransfertTime>
+    <Time>24/02/2023 00:23:25</Time>
+    <EncryptTime>00:00:00.1944025</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0095768</FileTransfertTime>
+    <Time>24/02/2023 00:23:25</Time>
+    <EncryptTime>00:00:00.1842469</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0073284</FileTransfertTime>
+    <Time>24/02/2023 00:23:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0100739</FileTransfertTime>
+    <Time>24/02/2023 00:23:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0083643</FileTransfertTime>
+    <Time>24/02/2023 00:23:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0072635</FileTransfertTime>
+    <Time>24/02/2023 00:23:25</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.9076642</FileTransfertTime>
+    <Time>24/02/2023 00:23:26</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.1669117</FileTransfertTime>
+    <Time>24/02/2023 00:23:27</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2130657</FileTransfertTime>
+    <Time>24/02/2023 00:23:29</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2864049</FileTransfertTime>
+    <Time>24/02/2023 00:23:30</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:06.3905546</FileTransfertTime>
+    <Time>24/02/2023 00:23:36</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:05.9035511</FileTransfertTime>
+    <Time>24/02/2023 00:23:42</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.9965528</FileTransfertTime>
+    <Time>24/02/2023 00:23:43</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.3113686</FileTransfertTime>
+    <Time>24/02/2023 00:23:45</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0136039</FileTransfertTime>
+    <Time>24/02/2023 00:24:34</Time>
+    <EncryptTime>00:00:00.1680119</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\uuuu.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\uuuu.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0059246</FileTransfertTime>
+    <Time>24/02/2023 00:24:34</Time>
+    <EncryptTime>00:00:00.1536873</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\aa.txt</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\aa.txt</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>32</FileSize>
+    <FileTransfertTime>00:00:00.0077708</FileTransfertTime>
+    <Time>24/02/2023 00:24:34</Time>
+    <EncryptTime>00:00:00.1622725</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0060470</FileTransfertTime>
+    <Time>24/02/2023 00:24:34</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0077113</FileTransfertTime>
+    <Time>24/02/2023 00:24:34</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0073167</FileTransfertTime>
+    <Time>24/02/2023 00:24:34</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Nouveau Document Microsoft Word.docx</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Nouveau Document Microsoft Word.docx</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>0</FileSize>
+    <FileTransfertTime>00:00:00.0111584</FileTransfertTime>
+    <Time>24/02/2023 00:24:35</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:00.8407254</FileTransfertTime>
+    <Time>24/02/2023 00:24:35</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2337460</FileTransfertTime>
+    <Time>24/02/2023 00:24:37</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (4) - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:01.2112714</FileTransfertTime>
+    <Time>24/02/2023 00:24:38</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:06.1088855</FileTransfertTime>
+    <Time>24/02/2023 00:24:44</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (5) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:06.2777761</FileTransfertTime>
+    <Time>24/02/2023 00:24:50</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:04.0264230</FileTransfertTime>
+    <Time>24/02/2023 00:24:54</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (6) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:02.4685201</FileTransfertTime>
+    <Time>24/02/2023 00:24:57</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\Workshop 11-12-33 - Copie (7) - Copie - Copie.mkv</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>615484490</FileSize>
+    <FileTransfertTime>00:00:08.4996015</FileTransfertTime>
+    <Time>24/02/2023 00:25:05</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie (2).ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie (2).ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0069587</FileTransfertTime>
+    <Time>24/02/2023 00:25:05</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1 - Copie.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1 - Copie.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0071082</FileTransfertTime>
+    <Time>24/02/2023 00:25:05</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+  <LogFile>
+    <Name>1</Name>
+    <FileSource>C:\Users\emiro\OneDrive\Documents\Bureau\1\aaa\exo_script_powershell_1.ps1</FileSource>
+    <FileTarget>C:\Users\emiro\OneDrive\Documents\Bureau\2\aaa\exo_script_powershell_1.ps1</FileTarget>
+    <DestPath>C:\Users\emiro\OneDrive\Documents\Bureau\2</DestPath>
+    <FileSize>161</FileSize>
+    <FileTransfertTime>00:00:00.0202799</FileTransfertTime>
+    <Time>24/02/2023 00:25:05</Time>
+    <EncryptTime>Not encrypted</EncryptTime>
+  </LogFile>
+</ArrayOfLogFile>
