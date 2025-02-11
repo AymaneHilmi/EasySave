@@ -1,4 +1,3 @@
-## Two software
 # CryptoSoft
 Our application to help you to encrypt and decrypt different type files.
 
